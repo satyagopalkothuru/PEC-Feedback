@@ -223,7 +223,7 @@
                                 echo "<tr>";
                                 echo "<td><h2> Overall Total Score </h2></td>";
                                 
-                                echo "<td><h2>" . substr(strval($t_score/$count1), 0, 5). "</h2></td>";
+                                echo "<td><h2>" . substr(strval($t_score/$count1), 0, 5). "/4</h2></td>";
                                 echo "<td> &nbsp </td>";
                                 echo "<td> &nbsp </td>";
                                 echo "<td> &nbsp </td>";

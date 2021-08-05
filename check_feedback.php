@@ -239,7 +239,7 @@
 
                                     echo "<tr>";
                                     echo "<td>" . $req_ques['question'] . "</td>";
-                                    echo "<td>" . substr(strval($total_score), 0, 5) . "</td>";
+                                    echo "<td>" . substr(strval($total_score), 0, 5) . "/4</td>";
                                     echo "<td>" . $total_a['count(*)'] . "</td>";
                                     echo "<td>" . $total_b['count(*)'] . "</td>";
                                     echo "<td>" . $total_c['count(*)'] . "</td>";
