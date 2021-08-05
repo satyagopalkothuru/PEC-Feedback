@@ -1,0 +1,56 @@
+body{
+    background-color: #f0c504;
+    border-top: 8px solid #be0600;
+    border-bottom: 8px solid #be0600;
+}
+
+table,th,td{
+    margin: 1px;
+    border: 2px solid #be0600;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+a[disabled]:hover {
+    pointer-events: none;
+    
+ }
+h1{
+    text-align: center;
+    color: #be0600;
+}
+h2{
+    text-align: center;
+}
+form{
+    width: 100%;
+}
+.form-check-input {
+    width: 20px;
+    height: 20px;
+}
+#submit{
+    background: #be0600;
+    color: #ffffff;
+}
+.large_buttons{
+    height: 150px;
+    width: 150px;
+}
+
+div{
+    padding: 10px;
+}
+button{
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+}
+#disable{
+    display: none;
+}
+
+.navbar{
+    background-color: #f0c504;
+    border-top: #ffffff;
+}
